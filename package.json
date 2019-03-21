@@ -1,0 +1,22 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "A compatibility-based \"FriendFinder\" application built with Node and Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alithom123/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alithom123/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/alithom123/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
